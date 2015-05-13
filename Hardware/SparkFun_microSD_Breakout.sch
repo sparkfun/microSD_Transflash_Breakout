@@ -15169,7 +15169,7 @@ layer for the logo on the board is tSilk.</description>
 <sheets>
 <sheet>
 <plain>
-<text x="238.76" y="7.62" size="2.54" layer="94">V01</text>
+<text x="238.76" y="7.62" size="2.54" layer="94">V15</text>
 <text x="148.336" y="7.112" size="2.54" layer="94">Revised by: Patrick Alberts</text>
 </plain>
 <instances>
