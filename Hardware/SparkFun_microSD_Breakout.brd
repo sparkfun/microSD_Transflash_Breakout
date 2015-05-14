@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.1.0">
+<eagle version="7.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -179,7 +179,7 @@
 <text x="17.015459375" y="0.726440625" size="1.016" layer="21" font="vector" ratio="15">NC</text>
 <text x="18.679159375" y="18.608040625" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">RSV</text>
 <text x="18.61311875" y="0.762003125" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">NC</text>
-<text x="2.8956" y="21.503640625" size="1.016" layer="16" font="vector" rot="MR0">V15</text>
+<text x="2.8956" y="21.503640625" size="1.016" layer="16" font="vector" ratio="15" rot="MR0">V15</text>
 </plain>
 <libraries>
 <library name="SparkFun-Connectors">
